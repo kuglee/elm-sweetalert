@@ -1,0 +1,10 @@
+# Folders to ignore
+elm-stuff
+node_modules
+
+# MacOS weird stuff
+.DS_Store
+
+# IntelliJ stuff:
+.idea/*
+*.iml
